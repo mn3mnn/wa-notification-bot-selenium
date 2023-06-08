@@ -13,9 +13,9 @@ send Whatsapp message to list of numbers when an event is added to any of these 
 
 - **Dependencies**
 
-  - Google Chrome : I expect you've it already installed.
+  - google chrome.
 
-  - Chromedriver : download Chromedriver from the official download page, https://sites.google.com/a/chromium.org/chromedriver/downloads
+  - chromedriver : download chromedriver from the official download page, https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
 - **Usage**
